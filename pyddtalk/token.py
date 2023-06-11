@@ -14,8 +14,8 @@ class token(base):
         self.appKey = appKey
         self.appSecret = appSecret
         response = self.get()
-        self.token = response.get("access_token")
-        self.expires_in = response.get("expires_in")
+        self.token = response.get("accessToken")
+        self.expires_in = response.get("expireIn")
         logger.debug(dict(msg="请求的token", token=self.token))
 
     def get(self):

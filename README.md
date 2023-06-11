@@ -4,7 +4,7 @@
 | ----- | ------------------ | -------- |
 | 1.0.1 | 初始化 | 20230611 |
 
-# pydingtalk
+# pyddtalk
 
 - python wxwork server api
 - version==1.0.1
@@ -18,12 +18,12 @@
 
 # how to use
 ### install pywxwork
-`pip install pydingtalk`
+`pip install pyddtalk`
 
 ### get token
 
 ```python
-from pydingtalk.token import token
+from pyddtalk.token import token
 
 data = {
 	"appKey":"dingasdfasdfasdfasd",

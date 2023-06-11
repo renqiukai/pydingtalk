@@ -8,7 +8,7 @@ from setuptools import setup, find_packages
 
 version = "1.0.1"
 setup(
-    name="pydingtalk",
+    name="pyddtalk",
     version=version,
     keywords=["dingtalk", "dingding",],
     description="",
