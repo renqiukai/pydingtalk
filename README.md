@@ -1,18 +1,3 @@
-# 目录
-
-- [目录](#目录)
-- [版本更新](#版本更新)
-- [pywxwork](#pywxwork)
-- [企微python接口](#企微python接口)
-- [框架结构](#框架结构)
-  - [接口](#接口)
-    - [接口列表](#接口列表)
-- [how to use](#how-to-use)
-    - [install pywxwork](#install-pywxwork)
-    - [get token](#get-token)
-    - [get user list](#get-user-list)
-
-
 # 版本更新
 
 | ver   | desc               | date     |
